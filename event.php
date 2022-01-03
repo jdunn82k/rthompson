@@ -166,5 +166,5 @@ include "includes/pages/scripts.php";
         }
     }
     </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnPQ9EYzW4VOMj9iOUqPSbZ87_w0sC5s0&callback=initialize"
+<script src="https://maps.googleapis.com/maps/api/js?key=&callback=initialize"
         async defer></script>
